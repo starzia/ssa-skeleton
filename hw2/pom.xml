@@ -207,6 +207,7 @@
           <configuration>
             <path>/</path><!-- deploy war to the root url -->
             <uriEncoding>UTF-8</uriEncoding>
+	    <port>8080</port>
           </configuration>
         </plugin>
       </plugins>
